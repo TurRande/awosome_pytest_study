@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Thu Apr 25 20:38:18 CST 2024","Thu Apr 25 20:38:18 CST 2024","0","testcase","test_02","","","","test006",""
+"passed","Thu Apr 25 20:38:18 CST 2024","Thu Apr 25 20:38:18 CST 2024","0","testcase","test_01","","","","test_allstep",""
+"passed","Thu Apr 25 20:38:18 CST 2024","Thu Apr 25 20:38:18 CST 2024","0","testcase","test_02","Test01","","","test005",""
+"passed","Thu Apr 25 20:38:18 CST 2024","Thu Apr 25 20:38:18 CST 2024","0","testcase","test_02","Test01","","","test006",""
+"passed","Thu Apr 25 20:38:18 CST 2024","Thu Apr 25 20:38:18 CST 2024","0","testcase","test_02","Test01","","","test004",""
