@@ -1,0 +1,10 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Apr 25 16:47:55 CST 2024","Thu Apr 25 16:47:55 CST 2024","0","testcase","test_01","","","","test_002",""
+"passed","Thu Apr 25 16:47:55 CST 2024","Thu Apr 25 16:47:55 CST 2024","0","testcase","test_02","","","","test_004",""
+"failed","Thu Apr 25 16:47:55 CST 2024","Thu Apr 25 16:47:55 CST 2024","1","testcase","test_02","","","","test_006","
+    assert 语句通过断言来触发异常
+    :return:
+    "
+"passed","Thu Apr 25 16:47:55 CST 2024","Thu Apr 25 16:47:55 CST 2024","0","testcase","test_01","","","","test_001",""
+"passed","Thu Apr 25 16:47:55 CST 2024","Thu Apr 25 16:47:55 CST 2024","1","testcase","test_01","","","","test_003",""
+"passed","Thu Apr 25 16:47:55 CST 2024","Thu Apr 25 16:47:55 CST 2024","0","testcase","test_02","","","","test_005",""
